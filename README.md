@@ -4,8 +4,8 @@
 
 - 📔Eu sou Aluna do Instituto Federal do Tocantins
 - 🎒Estou cursando o Ensino Médio integrado ao técnico em Informática.
-- 
--  <div>
+  
+  <div>
   <a href= "https://github.com/alessandra331">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=alessandra&show_icons=true&theme=gruvbox"/>
     
